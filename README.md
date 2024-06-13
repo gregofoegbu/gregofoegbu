@@ -1,5 +1,6 @@
 - Hi, I’m Gregory Ofoegbu
-- I’m a 5th year computer engineering student at Memorial University of Newfoundland
+- I recently graduated from Memorial University with a Computer Engineering degree
+- Feel free to contact me at gcofoegbu@mun.ca
 
 <!---
 gregofoegbu/gregofoegbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
